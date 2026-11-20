@@ -1,0 +1,5 @@
+*.luac
+.DS_Store
+.vscode/
+.idea/
+*.log
